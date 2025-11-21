@@ -8,7 +8,7 @@ ventana.title("ventana simple")
 label = tk.Label(ventana, text="Hola mundo") # widget de texto
 label.pack(pady=10) # la coloca en la ventana 
 
-label = tk.Label(ventana, text="Presiona el putos") # widget de texto
+label = tk.Label(ventana, text="Presiona el boton") # widget de texto
 label.pack(pady=10) # la coloca en la ventana 
 
 def mostrar_mensaje():
